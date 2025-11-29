@@ -1,2 +1,2 @@
 # class
-你好！！！
+MY CLASS!!!
