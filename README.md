@@ -1,3 +1,2 @@
 # class
 MY CLASS!!!
-text!!!
