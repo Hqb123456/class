@@ -1,2 +1,2 @@
 # class
-MY CLASS!!!
+🐂🍺666
