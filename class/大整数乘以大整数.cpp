@@ -37,6 +37,7 @@ int main(){
 	cin>>sa>>sb;
 	str_to_arr(sa,a);
 	str_to_arr(sb,b);
+	mul();
 	print_arr(c);
 	return 0;
 }
