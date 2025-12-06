@@ -1,0 +1,6 @@
+{
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.fontSize": 17,
+    "editor.mouseWheelZoom": true,
+    "files.autoSave": "onWindowChange"
+}
