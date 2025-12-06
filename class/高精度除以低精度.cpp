@@ -17,7 +17,7 @@ void print_arr(int d[]){
 }
 void div(){
 	for(int i=a[0];i>=1;i--){
-		int temp = a[i] + r *10;
+		int temp = a[i] + r * 10;
 		c[i] = temp / b;
 		r = temp % b;
 	}
