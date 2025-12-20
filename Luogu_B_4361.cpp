@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-using ll = long long;
 const int MAXN = 3000 + 5;
 struct Student{
     int h, w;
